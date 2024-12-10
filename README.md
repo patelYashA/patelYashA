@@ -55,4 +55,4 @@
 
 [instagram]: https://www.instagram.com/yashapatel/
 [linkedin]: https://linkedin.com/in/yash-patel-2b682918a
-[portfolio]: https://livewithcodeankit.vercel.app/
+
